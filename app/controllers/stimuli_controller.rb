@@ -1,0 +1,2 @@
+class StimuliController < ApplicationController
+end

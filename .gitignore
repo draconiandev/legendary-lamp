@@ -19,3 +19,4 @@
 # Keep your secrets close
 /config/secrets.yml
 config/secrets.yml
+*.yml
