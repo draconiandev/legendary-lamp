@@ -24,7 +24,7 @@ gem 'jquery-rails'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Frontend gems
-gem 'materialize-sass'
+gem 'bootstrap', '~> 4.0.0.alpha6'
 
 # Backend gems
 gem 'simple_form'
